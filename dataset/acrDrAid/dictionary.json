@@ -1,0 +1,696 @@
+{
+    "kt": [
+        "kích thước",
+        "khu trú",
+        "khuếch tán",
+        "kỹ thuật"
+    ],
+    "vđ": [
+        "vòng đầu",
+        "vùng đáy",
+        "vai đòn"
+    ],
+    "vb": [
+        "vòng bụng",
+        "vùng bụng"
+    ],
+    "tn": [
+        "thai nhi",
+        "thâm nhiễm",
+        "tiểu não",
+        "túi ngực",
+        "thủy ngân",
+        "teo não",
+        "tim ngực"
+    ],
+    "nm": [
+        "nhu mô",
+        "niêm mạc",
+        "nội mạc",
+        "nhồi máu"
+    ],
+    "rr": [
+        "rải rác",
+        "rõ rệt"
+    ],
+    "tc": [
+        "tử cung",
+        "tính chất",
+        "tổ chức",
+        "type c",
+        "tứ chi",
+        "tủy cổ",
+        "thân chính"
+    ],
+    "đk": [
+        "đường kính",
+        "định kỳ"
+    ],
+    "tlt": [
+        "trọng lượng thai",
+        "tiền liệt tuyến"
+    ],
+    "vt": [
+        "vị trí",
+        "vòi trứng",
+        "vận tốc",
+        "vỏ thận",
+        "van tim"
+    ],
+    "pb": [
+        "phân biệt",
+        "phân bố"
+    ],
+    "bt": [
+        "buồng trứng",
+        "bao tuyến",
+        "bóng tim",
+        "buồng tim",
+        "bàn tay",
+        "bất thường",
+        "bóng thận",
+        "biến thể"
+    ],
+    "tt": [
+        "tim thai",
+        "tổn thương",
+        "tỷ trọng",
+        "trung tâm",
+        "thể tích",
+        "túi thai",
+        "trung thất",
+        "trực tràng",
+        "tâm thu",
+        "trục tim",
+        "thân tụy",
+        "túi thừa",
+        "thùy trán",
+        "tình trạng",
+        "tá tràng",
+        "thành tim",
+        "thông tin"
+    ],
+    "đn": [
+        "đồng nhất",
+        "đại não",
+        "đa nang",
+        "đùi nông",
+        "đoạn nhu"
+    ],
+    "vh": [
+        "vôi hóa",
+        "vùng hố",
+        "vỏ hạch",
+        "vòm hoành"
+    ],
+    "đm": [
+        "động mạch",
+        "đám mờ",
+        "đường mật"
+    ],
+    "bn": [
+        "bệnh nhân",
+        "bên ngoài"
+    ],
+    "th": [
+        "tín hiệu",
+        "thoái hóa",
+        "tinh hoàn",
+        "trường hợp",
+        "tuần hoàn"
+    ],
+    "md": [
+        "mặt da",
+        "mức dịch"
+    ],
+    "xq": [
+        "xung quanh",
+        "x quang"
+    ],
+    "hc": [
+        "hố chậu",
+        "hệ cơ"
+    ],
+    "tl": [
+        "trọng lượng",
+        "thắt lưng"
+    ],
+    "nđ": [
+        "nhu động",
+        "nhị đầu"
+    ],
+    "ct": [
+        "cấu trúc",
+        "cạnh tim",
+        "cột tủy",
+        "cánh tay",
+        "cổ tay",
+        "cơ tim",
+        "chấn thương"
+    ],
+    "tv": [
+        "tuyến vú",
+        "tủy vỏ",
+        "thoát vị"
+    ],
+    "nc": [
+        "nhãn cầu",
+        "ngón chân"
+    ],
+    "hv": [
+        "hạ vị",
+        "hình viền"
+    ],
+    "ht": [
+        "hiện tại",
+        "hệ thống",
+        "hình tim",
+        "hố thận",
+        "hoại tử",
+        "hình trụ",
+        "hiện tượng"
+    ],
+    "td": [
+        "thái dương",
+        "thùy dưới",
+        "trục dọc",
+        "túi dịch"
+    ],
+    "cn": [
+        "chức năng",
+        "cầu não",
+        "cơ ngực",
+        "cuống não"
+    ],
+    "nx": [
+        "nhịp xoang",
+        "nhận xét",
+        "nhân xơ",
+        "nội xốp",
+        "nang xương"
+    ],
+    "bd": [
+        "biparietal diameter",
+        "bề dày",
+        "bầu dục",
+        "biến dạng",
+        "bên dưới"
+    ],
+    "nt": [
+        "nhau thai",
+        "nước tiểu",
+        "não thất",
+        "nhịp tim",
+        "nang trứng",
+        "não tủy",
+        "ngón tay",
+        "nhện tầng"
+    ],
+    "cs": [
+        "chỉ số",
+        "cột sống",
+        "cặn sỏi"
+    ],
+    "nn": [
+        "nghi ngờ",
+        "nguyên nhân"
+    ],
+    "kq": [
+        "kết quả",
+        "khí quản"
+    ],
+    "tm": [
+        "tĩnh mạch",
+        "túi mật",
+        "thành mạch",
+        "thiếu máu",
+        "tụ máu"
+    ],
+    "sl": [
+        "số lượng",
+        "sinh lý"
+    ],
+    "st": [
+        "sau tiêm",
+        "sỏi thận"
+    ],
+    "nv": [
+        "núm vú",
+        "ngoại vi",
+        "nốt vôi"
+    ],
+    "ôt": [
+        "ống tuyến",
+        "ống tụy",
+        "ống tai"
+    ],
+    "ld": [
+        "lớp dịch",
+        "lý do",
+        "lượng dịch",
+        "lớp da"
+    ],
+    "pn": [
+        "phế nang",
+        "phù nề",
+        "phù não"
+    ],
+    "tp": [
+        "trường phổi",
+        "thành phần",
+        "tay phải",
+        "túi phình",
+        "thứ phát",
+        "thai phụ",
+        "thùy phổi",
+        "tái phát"
+    ],
+    "rg": [
+        "ranh giới",
+        "rốn gan"
+    ],
+    "sb": [
+        "sơ bộ",
+        "sỏi bùn"
+    ],
+    "ln": [
+        "lồng ngực",
+        "lớp nội"
+    ],
+    "tg": [
+        "trung gian",
+        "thời gian",
+        "tuyến giáp"
+    ],
+    "lm": [
+        "lòng mạch",
+        "lớp mỡ"
+    ],
+    "kn": [
+        "khả năng",
+        "kinh nguyệt",
+        "khối nốt",
+        "kinh nghiệm"
+    ],
+    "rt": [
+        "ruột thừa",
+        "rốn thận"
+    ],
+    "hh": [
+        "hỗn hợp",
+        "hô hấp",
+        "hồ huyết"
+    ],
+    "mđ": [
+        "mật độ",
+        "màng đệm"
+    ],
+    "dt": [
+        "dung tích",
+        "dương tính",
+        "diện tích"
+    ],
+    "pd": [
+        "phổ doppler",
+        "phần dịch"
+    ],
+    "dd": [
+        "dạ dày",
+        "dịch doppler",
+        "dịch douglas"
+    ],
+    "hd": [
+        "hình dạng",
+        "hốc dịch"
+    ],
+    "tk": [
+        "tiểu khung",
+        "thần kinh",
+        "trật khớp",
+        "thời kỳ",
+        "thông khí"
+    ],
+    "dh": [
+        "dấu hiệu",
+        "dạng hạch"
+    ],
+    "lt": [
+        "lượng thai",
+        "lành tính",
+        "lứa tuổi",
+        "lý thuyết"
+    ],
+    "dk": [
+        "diện khớp",
+        "dịch khớp"
+    ],
+    "ck": [
+        "chu kỳ",
+        "co kéo"
+    ],
+    "dc": [
+        "dây chằng",
+        "dụng cụ",
+        "di chứng"
+    ],
+    "đs": [
+        "đốt sống",
+        "đỉnh sọ"
+    ],
+    "kg": [
+        "khớp gối",
+        "khoang gan"
+    ],
+    "bl": [
+        "ba lá",
+        "bệnh lý"
+    ],
+    "đmt": [
+        "động mạch thận",
+        "đáy manh tràng"
+    ],
+    "vn": [
+        "vùng nách",
+        "vỏ não",
+        "vách ngăn"
+    ],
+    "đt": [
+        "đại tràng",
+        "đài thận",
+        "đồng tâm",
+        "đuôi tụy",
+        "đồi thị",
+        "độ tuổi",
+        "điện tim"
+    ],
+    "gđ": [
+        "gia đình",
+        "giai đoạn"
+    ],
+    "qr": [
+        "quai ruột",
+        "quanh rốn"
+    ],
+    "tq": [
+        "thực quản",
+        "thai quý"
+    ],
+    "tđ": [
+        "thân đốt",
+        "thời điểm",
+        "thùy đỉnh",
+        "tầng đĩa",
+        "tốc độ"
+    ],
+    "sc": [
+        "sức căng",
+        "sụn chêm"
+    ],
+    "mt": [
+        "manh tràng",
+        "mang tai",
+        "màng tim",
+        "mạch thận",
+        "mức thùy"
+    ],
+    "cđ": [
+        "cân đối",
+        "chẩn đoán"
+    ],
+    "gn": [
+        "ghi nhận",
+        "giới nam"
+    ],
+    "đđ": [
+        "đông đặc",
+        "đầu đùi",
+        "đĩa đệm",
+        "đặc điểm"
+    ],
+    "vx": [
+        "vỏ xương",
+        "vữa xơ"
+    ],
+    "rh": [
+        "rốn hạch",
+        "răng hàm"
+    ],
+    "bc": [
+        "bàn chân",
+        "bán cầu",
+        "bánh chè",
+        "bề cao",
+        "bản chất"
+    ],
+    "mr": [
+        "mạch rốn",
+        "mỡ rốn"
+    ],
+    "bm": [
+        "bề mặt",
+        "bùn mật",
+        "bờ méo"
+    ],
+    "tst": [
+        "thuốc sau tiêm",
+        "tần số tim"
+    ],
+    "dm": [
+        "doppler mode",
+        "dịch mật",
+        "da mặt",
+        "dạng máu"
+    ],
+    "dv": [
+        "dạng viêm",
+        "dị vật"
+    ],
+    "đb": [
+        "đường bụng",
+        "đáy buồng",
+        "đòn bên"
+    ],
+    "hn": [
+        "hình nốt",
+        "hố nách",
+        "hồi não"
+    ],
+    "lc": [
+        "lớp cơ",
+        "lồi cầu"
+    ],
+    "ts": [
+        "tần số",
+        "tăng sinh",
+        "tiền sử",
+        "trị số"
+    ],
+    "xh": [
+        "xơ hóa",
+        "xoang hàm",
+        "xu hướng",
+        "xuất huyết"
+    ],
+    "vk": [
+        "vòng kinh",
+        "vùng khoeo"
+    ],
+    "tmt": [
+        "tĩnh mạch tinh",
+        "tuyến mang tai"
+    ],
+    "cc": [
+        "cổ chân",
+        "chiều cao",
+        "cẳng chân",
+        "chủ chậu",
+        "cánh chậu"
+    ],
+    "dl": [
+        "di lệch",
+        "dẫn lưu"
+    ],
+    "đc": [
+        "đường cong",
+        "đoạn cuối"
+    ],
+    "kđ": [
+        "khe đĩa",
+        "khớp đùi"
+    ],
+    "mc": [
+        "máu cục",
+        "mặt cắt",
+        "mâm chày",
+        "màng cứng",
+        "mắt cá"
+    ],
+    "bk": [
+        "bóng khí",
+        "bao khớp"
+    ],
+    "nd": [
+        "notch doppler",
+        "nhân dạng",
+        "nang dịch",
+        "nốt dạng",
+        "nội dung"
+    ],
+    "ttt": [
+        "tuyến thượng thận",
+        "tư thế thai"
+    ],
+    "mx": [
+        "màng xương",
+        "mức xoang"
+    ],
+    "xt": [
+        "xoang trán",
+        "xẹp thân"
+    ],
+    "kc": [
+        "khoảng cách",
+        "khung chậu"
+    ],
+    "sp": [
+        "sản phụ",
+        "sỏi phân"
+    ],
+    "dx": [
+        "dạng xơ",
+        "dải xơ"
+    ],
+    "htt": [
+        "hình thái thai",
+        "hematma tuổi thai"
+    ],
+    "np": [
+        "nghiệm pháp",
+        "nền phổi",
+        "núm phình"
+    ],
+    "ch": [
+        "cơ hoành",
+        "cộng hưởng"
+    ],
+    "tb": [
+        "toàn bộ",
+        "thành bụng",
+        "thông bào"
+    ],
+    "hs": [
+        "hình sỏi",
+        "hình sonde",
+        "hố sau"
+    ],
+    "cv": [
+        "chủ vồng",
+        "chu vi"
+    ],
+    "xb": [
+        "xoang bướm",
+        "xương bàn"
+    ],
+    "tr": [
+        "trái ri",
+        "thân răng"
+    ],
+    "kl": [
+        "kết luận",
+        "khối lồng",
+        "khối lượng"
+    ],
+    "kk": [
+        "kén khí",
+        "khe khớp",
+        "khoảng kẽ",
+        "kỳ kinh",
+        "khẩu kính"
+    ],
+    "cd": [
+        "chiều dọc",
+        "colr doppler",
+        "cơ delta"
+    ],
+    "ns": [
+        "ngực sau",
+        "nang sau",
+        "nội soi"
+    ],
+    "pg": [
+        "phổi góc",
+        "phần gan"
+    ],
+    "mn": [
+        "mức nước",
+        "mạc nối",
+        "mạch não",
+        "màng não",
+        "mờ nhạt"
+    ],
+    "pc": [
+        "phình cảnh",
+        "phần cơ"
+    ],
+    "rn": [
+        "ruột non",
+        "rãnh não"
+    ],
+    "bx": [
+        "bờ xương",
+        "bất xứng"
+    ],
+    "kb": [
+        "khung bên",
+        "kén baker",
+        "khớp bàn"
+    ],
+    "kd": [
+        "khối dạng",
+        "kẽ dạng",
+        "khoảng doppler"
+    ],
+    "kv": [
+        "kẽ vùng",
+        "khớp vai"
+    ],
+    "hm": [
+        "hậu môn",
+        "hốc mũi"
+    ],
+    "xl": [
+        "xơ loại",
+        "xâm lấn"
+    ],
+    "đx": [
+        "độ xơ",
+        "đối xứng"
+    ],
+    "xqt": [
+        "xương quay trái",
+        "xung quanh tuyến"
+    ],
+    "mk": [
+        "mãn kinh",
+        "mặt khớp",
+        "mức khoang"
+    ],
+    "kh": [
+        "khách hàng",
+        "khớp háng",
+        "khối hạch"
+    ],
+    "bct": [
+        "bề cao thân",
+        "bệnh cơ tim"
+    ],
+    "kct": [
+        "khớp cổ tay",
+        "khối cấu trúc"
+    ],
+    "cx": [
+        "chuỗi xung",
+        "chất xám",
+        "can xi"
+    ]
+}
