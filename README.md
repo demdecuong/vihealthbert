@@ -26,3 +26,10 @@ Our work can be found in this [paper]() - We will update the link whenever the p
 | ViHealthBERT  |       0.9677      |   0.9677      |   0.8601      |   0.8432    |
 
 The overview of experimental results in COVID-19 and ViMQ datasets. * refers to COVID-19 dataset, ** refers to ViMQ dataset.
+
+## <a name='hugging face'></a> Hugging face
+
+Model | #params | Arch.  | Tokenizer
+---|---|---|---
+`demdecuong/vihealthbert-base-word` | 135M | base | Word-level
+`demdecuong/vihealthbert-base-syllable` | 135M | base | Syllable-level
