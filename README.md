@@ -4,11 +4,10 @@
 
 # <a name="introduction"></a> ViHealthBERT: Pre-trained Language Models for Vietnamese in Health Text Mining
 
-
 <img src="asset/overview.png"/>
 
 
-ViHealthBERT is the a strong baseline language models for Vietnamesea in Healthcare domain.
+ViHealthBERT is a strong baseline language models for Vietnamese in Healthcare domain.
 
  - We empirically investigate our model with different training strategies, achieving state of the art (SOTA) performances on 3 downstream tasks: NER (COVID-19 & ViMQ), Acronym Disambiguation, and Summarization.
 
