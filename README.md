@@ -1,7 +1,7 @@
 #### Table of contents
 1. [Introduction](#introduction)
 2. [Experimental Results](#result)
-
+3. [Citation](#cite)
 # <a name="introduction"></a> ViHealthBERT: Pre-trained Language Models for Vietnamese in Health Text Mining
 
 <img src="asset/overview.png"/>
@@ -13,7 +13,8 @@ ViHealthBERT is a strong baseline language models for Vietnamese in Healthcare d
 
  - We introduce two Vietnamese datasets: the acronym dataset (acrDrAid) and the FAQ summarization dataset in the healthcare domain. Our acrDrAid dataset is annotated with 135 sets of keywords.
 
-Our work can be found in this [paper]() - We will update the link whenever the publishing process is completed.
+Our work can be found in this [paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.35.pdf) . The proceeding will soon be available from the ACL Anthology.
+
 
 
 ## <a name="result"></a> Experimental Results
@@ -33,3 +34,19 @@ Model | #params | Arch.  | Tokenizer
 ---|---|---|---
 `demdecuong/vihealthbert-base-word` | 135M | base | Word-level
 `demdecuong/vihealthbert-base-syllable` | 135M | base | Syllable-level
+
+## <a name="cite"></a>
+If you find our work is helpful, please cite 
+```
+@InProceedings{minh-EtAl:2022:LREC,
+  author    = {Minh, Nguyen  and  Tran, Vu Hoang  and  Hoang, Vu  and  Ta, Huy Duc  and  Bui, Trung Huu  and  Truong, Steven Quoc Hung},
+  title     = {ViHealthBERT: Pre-trained Language Models for Vietnamese in Health Text Mining},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {328--337},
+  url       = {https://aclanthology.org/2022.lrec-1.35}
+}
+```
