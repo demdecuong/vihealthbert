@@ -2,6 +2,7 @@
 1. [Introduction](#introduction)
 2. [Experimental Results](#result)
 3. [Citation](#cite)
+   
 # <a name="introduction"></a> ViHealthBERT: Pre-trained Language Models for Vietnamese in Health Text Mining
 
 <img src="asset/overview.png"/>
@@ -50,3 +51,9 @@ If you find our work is helpful, please cite
   url       = {https://aclanthology.org/2022.lrec-1.35}
 }
 ```
+**Please cite** our repo when it is used to help produce published results or is incorporated into other software.
+
+## contact
+nguyenphucminh2804@gmail.com
+
+
