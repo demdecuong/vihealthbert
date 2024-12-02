@@ -14,7 +14,7 @@ ViHealthBERT is a strong baseline language models for Vietnamese in Healthcare d
 
  - We introduce two Vietnamese datasets: the acronym dataset (acrDrAid) and the FAQ summarization dataset in the healthcare domain. Our acrDrAid dataset is annotated with 135 sets of keywords.
 
-Our work can be found in this [paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.35.pdf) . The proceeding will soon be available from the ACL Anthology.
+Our work can be found in this [paper](https://aclanthology.org/2022.lrec-1.35/) . 
 
 
 
